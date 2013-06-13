@@ -1,0 +1,3 @@
+[submodule "words/SPL"]
+	path = words/SPL
+	url = https://github.com/gskinner/SPL.git
